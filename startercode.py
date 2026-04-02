@@ -3,12 +3,13 @@
 # Your student id: 11038752
 # Your email: nahidas@umich.edu
 # Who or what you worked with on this homework (including generative AI like ChatGPT):
+# I worked with myself and used ChatGPT for help debugging and understanding the JSON structure.
 # If you worked with generative AI also add a statement for how you used it.
-# e.g.:
+# e.g.: 
 # Asked ChatGPT for help debugging and understanding the JSON structure
 #
 # Did your use of GenAI on this assignment align with your goals and guidelines in your Gen AI contract? If not, why?
-#
+# Yes, my use of GenAI aligned with my goals and guidelines in my Gen AI contract. I used it as a tool to assist with debugging and understanding the JSON structure, which is within the scope of acceptable use as outlined in my contract. I did not rely on it for generating code or completing the assignment, but rather for clarifying concepts and troubleshooting issues I encountered while working on the homework.
 # --- ARGUMENTS & EXPECTED RETURN VALUES PROVIDED --- #
 # --- SEE INSTRUCTIONS FOR FULL DETAILS ON METHOD IMPLEMENTATION --- #
 
