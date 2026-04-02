@@ -1,6 +1,6 @@
 # SI 201 HW6 (APIs, JSON, and Caching)
-# Your name: 
-# Your student id: 
+# Your name: Nahida Sultana
+# Your student id: 11038752
 # Your email: nahidas@umich.edu
 # Who or what you worked with on this homework (including generative AI like ChatGPT):
 # If you worked with generative AI also add a statement for how you used it.
